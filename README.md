@@ -1,6 +1,6 @@
 # Machine-learning in Python and R
 
-I have created codes for the following models, it can be used as reference for already known ML and help out for Newbies to learn from scratch.
+I have created codes for the following models:
 
 1.Simple Linear Regression
 
